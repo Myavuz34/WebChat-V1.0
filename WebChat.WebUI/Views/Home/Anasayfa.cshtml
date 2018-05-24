@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Anasayfa";
+}
+
+<h2>Anasayfa</h2>
+@if (Session["UserId"] != null)
+{
+    <h3>@Session["UserName"].ToString() Hoşgediln</h3>
+}
+else
+{
+    <p>Lütfen Giriş yapınız.</p>
+}
+

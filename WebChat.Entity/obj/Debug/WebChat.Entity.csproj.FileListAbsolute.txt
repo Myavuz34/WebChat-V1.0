@@ -1,0 +1,11 @@
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\bin\Debug\WebChat.Entity.dll.config
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\bin\Debug\WebChat.Entity.dll
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\bin\Debug\WebChat.Entity.pdb
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\bin\Debug\EntityFramework.dll
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\bin\Debug\EntityFramework.xml
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\obj\Debug\WebChat.Entity.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\obj\Debug\WebChat.Entity.csproj.CopyComplete
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\obj\Debug\WebChat.Entity.dll
+C:\Users\musta\source\repos\WebChat\WebChat.Entity\obj\Debug\WebChat.Entity.pdb

@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\WebChat.Data.dll.config
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\WebChat.Data.dll
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\WebChat.Data.pdb
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\EntityFramework.dll
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\WebChat.Entity.dll
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\WebChat.Entity.pdb
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\WebChat.Entity.dll.config
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\EntityFramework.xml
+C:\Users\musta\source\repos\WebChat\WebChat.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\musta\source\repos\WebChat\WebChat.Data\obj\Release\WebChat.Data.csprojResolveAssemblyReference.cache
+C:\Users\musta\source\repos\WebChat\WebChat.Data\obj\Release\WebChat.Data.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\WebChat\WebChat.Data\obj\Release\WebChat.Data.csproj.CopyComplete
+C:\Users\musta\source\repos\WebChat\WebChat.Data\obj\Release\WebChat.Data.dll
+C:\Users\musta\source\repos\WebChat\WebChat.Data\obj\Release\WebChat.Data.pdb

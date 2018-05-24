@@ -1,2 +1,3 @@
-# WebChat-V1.0
-Asp.Net MVC SignalR EntityFreamwork Code First N-tier
+# WebChat-Asp.Net-SignalR
+Asp.Net MVC SignalR n-tier
+
